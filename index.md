@@ -3,8 +3,25 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
-title: Blog
+title: info
 ---
+
+esse é um projeto de arquivamento, publicação e desenvolvimento de poemas.
+está tudo muito no começo. não sou programandora, mas tenho alguma familiaridade
+e facilidade com tecnologia da informação. por enquanto, estou montando este
+site simples usando Jekyll e Github (inclusive Pages). no computador, pra fazer
+tudo funcionar, uso sistema operacional Fedora (versão 30), Firefox para
+navegar, Atom para mexer nos arquivos, Gitkraken para a interface com o GitHub.
+
+aos poucos vou adicionar links para esses recursos e estou disponível pra trocar
+ideias sobre este processo. ganhar autonomia em relação aos meios de difusão
+no processo de tornar públicas coisas que desenvolvo privadamente desde o século
+passado. seja bem-vinda.
+
+olivia
+
+======
+
 {% for post in site.posts %}
   <div id="post-short">
     <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
