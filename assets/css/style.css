@@ -58,12 +58,12 @@ a:hover	{
 }
 
 #logo	{
-	text-align:center;
+	text-align:left;
 	margin: 20px auto 20px auto;
 }
 
 #logo img {
-	max-width: 50%;
+	max-width: 70%;
 }
 
 #content-left a:link, #content-left a:visited	{
