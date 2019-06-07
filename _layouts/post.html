@@ -12,7 +12,7 @@
         <i>{{ page.date | date: "%Y" }}</i>
         {% if page.categories.size > 0 %}
           <div id="categories">
-            <p><b>Categories:</b>&nbsp;
+            <p><b>rótulos:</b>&nbsp;
               {% for category in page.categories %}
                 <a href="{{site.url}}{{site.baseurl}}/categories/{{category}}/">#{{category}}</a>&nbsp;
               {% endfor %}
