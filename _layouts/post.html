@@ -9,7 +9,7 @@
       <div id="post">
         <h2>{{ page.title }}</h2>
         {{ content }}
-        <i>{{ page.date | date: "%-d/%-m/%Y" }}</i>
+        <i>{{ page.date | date: "%Y" }}</i>
         {% if page.categories.size > 0 %}
           <div id="categories">
             <p><b>Categories:</b>&nbsp;

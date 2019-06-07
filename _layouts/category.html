@@ -16,7 +16,7 @@
           <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
             <h3>{{post.title}}</h3>
           </a>
-          <i>criado em {{ post.date | date: "%-d/%-m/%Y" }}</i>
+          <i>criado em {{ post.date | date: "%Y" }}</i>
           <p>
             {% if post.excerpt %}
               {{ post.excerpt }}
