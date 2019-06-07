@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "alma interm"
+title:  "alma intermitente"
 date:   2003-01-01 +0300
 categories: translucido-e-outros data-errada
 ---
-
-## alma intermitente
 
 <!--more-->
 
