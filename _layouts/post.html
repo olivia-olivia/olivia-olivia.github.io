@@ -9,7 +9,7 @@
       <div id="post">
         <h2>{{ page.title }}</h2>
         {{ content }}
-        <i>criado em {{ page.date | date: "%-d/%-m/%Y" }}</i>
+        <i>{{ page.date | date: "%-d/%-m/%Y" }}</i>
         {% if page.categories.size > 0 %}
           <div id="categories">
             <p><b>Categories:</b>&nbsp;
@@ -18,9 +18,14 @@
               {% endfor %}
             </p>
           </div>
+        {% endif %}
+        {% if site.disqus_username and page.comments or site.comments %}
+          <div id="disqus_thread"></div><!-- /#disqus_thread -->
+          {% include disqus-comments.html %}
+        {% endif %}
   		</div>
     </div>
 		{% include footer.html %}
 	</div>
-  </body>
+    </body>
 </html>
