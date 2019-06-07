@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: category
 title: outros poemas
-permalink: /outros/
+category: outros
+permalink: /categories/outros/
 ---
 
 pras coisas novas, ainda sem esquemas.
