@@ -26,13 +26,11 @@ h4	{
 }
 
 a:link, a:visited	{
-	font-family: 'Cutive Mono', serif;
 	text-decoration: none;
 	color:#000
 }
 
 a:hover	{
-	font-family: 'Cutive Mono', serif;
 	text-decoration: underline;
 }
 
