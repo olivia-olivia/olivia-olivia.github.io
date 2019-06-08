@@ -1,7 +1,7 @@
 ---
 layout: default
 title: detalhes das licenças
-permalink: /licensas/
+permalink: /licencas/
 ---
 
 ## Para os poemas e textos
