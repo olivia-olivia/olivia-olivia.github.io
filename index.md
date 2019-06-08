@@ -6,6 +6,8 @@ layout: default
 title: info
 ---
 
+para ler os poemas, navegue nos títulos de coleção acima ou direto no listão (nem tão ão) de todos os poemas, [abaixo](#todos-os-poemas)
+
 esse é um projeto de arquivamento, publicação e desenvolvimento de poemas.
 está tudo muito no começo. não sou programandora, mas tenho alguma familiaridade
 e facilidade com tecnologia da informação. por enquanto, estou montando este
