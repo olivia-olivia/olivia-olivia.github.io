@@ -8,7 +8,7 @@ categories: novos rascunhos
 
 <!--more-->
 
-mudou a densidade do ar.
+mudou a densidade do ar.  
 alto da Cordilheira, cruzo  
 linha imaginária do tempo  
 e quando passa 23h30 já é  
