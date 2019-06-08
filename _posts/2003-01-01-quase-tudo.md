@@ -2,7 +2,7 @@
 layout: post
 title:  "quase tudo"
 date:   2004-01-01 +0300
-categories: translucido-e-outros data-errada
+categories: data-errada translucido
 ---
 
 <!--more-->

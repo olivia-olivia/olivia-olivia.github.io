@@ -2,7 +2,7 @@
 layout: post
 title:  "anatomia do meio"
 date:   2003-01-01 +0300
-categories: translucido-e-outros data-errada
+categories: data-errada translucido
 ---
 
 <!--more-->
