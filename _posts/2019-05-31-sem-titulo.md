@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "(sem título)"
+date:   2019-06-31
+place: Um Airbus entre Santiago e São Paulo
+categories: novos rascunhos
+---
+
+<!--more-->
+
+mudou a densidade do ar.
+alto da Cordilheira, cruzo  
+linha imaginária do tempo  
+e quando passa 23h30 já é  
+12h31 ou 1h31 eu devolvo  
+uma hora apressando a entrada da nova idade  
+já que é pra ir, eu corro  
+já que é pra não morrer  
+vivo.  
+já que é pra me molhar, mergulho  
+já que é pra estar aqui  
+onde está você?  
+uma nova idade, um tempo  
+estranho sobre a américa do sul e sobre o globo  
+ou a ficha dos obtusos?  
+a ficha, a grande ficha que cai  
+
+o meteoro da Laerte acende o motor no meu peito  
+mulher *ex-machina*  
+furiosa correndo desertos futuros cercados de oceanos mortos  
+o rugir do deus da justiça não comove ninguém  
