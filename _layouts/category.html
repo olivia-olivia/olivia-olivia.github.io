@@ -6,7 +6,8 @@
 		{% include logo.html %}
 		{% include nav.html %}
 		<div id="content-left">
-      <h3>Category: {{page.category}}</h3>
+      <h3>{{page.title}}</h3>
+      <p>rótulo: {{page.category}}</p>
       {% assign content = page.content | strip_newlines %}
       {% if content != ""  %}
         {{content}}
