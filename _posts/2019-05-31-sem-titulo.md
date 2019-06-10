@@ -12,7 +12,7 @@ mudou a densidade do ar.
 alto da Cordilheira, cruzo  
 linha imaginária do tempo  
 e quando passa 23h30 já é  
-12h31 ou 1h31 eu devolvo  
+00h31 ou 1h31 eu devolvo  
 uma hora apressando a entrada da nova idade  
 já que é pra ir, eu corro  
 já que é pra não morrer  
