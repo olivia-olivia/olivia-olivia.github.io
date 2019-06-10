@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "alma intermitente"
-date:   2003-01-01 +0300
-categories: translucido data-errada
+date:   2002-11-02 -0300
+categories: translucido
+author-comment: "o tempo passa e eu gosto mais dele."
 ---
 
 <!--more-->

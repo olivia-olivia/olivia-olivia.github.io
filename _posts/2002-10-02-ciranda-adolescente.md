@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "ciranda adolescente"
-date:   2004-01-01 +0300
-categories: data-errada da-boba
+date:   2002-10-02 -0300
+categories: da-boba
+author-comment: "talvez o poema que eu mais mexi ao longo do tempo. tinha uma outra estrofe."
 ---
 
 <!--more-->

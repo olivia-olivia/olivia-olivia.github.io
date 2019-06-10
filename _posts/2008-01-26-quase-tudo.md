@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "quase tudo"
-date:   2004-01-01 +0300
-categories: data-errada translucido
+date:   2008-01-26 -0300
+categories: translucido
+author-comment: "escrevi uma primeira versão em 30 de Novembro de 2002. anos
+depois, em uma de muitas sessões de leitura mútua, a Stella sugeriu
+modificações muito importante."
 ---
 
 <!--more-->
