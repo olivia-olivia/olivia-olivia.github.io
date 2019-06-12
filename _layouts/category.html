@@ -7,7 +7,6 @@
 		{% include nav.html %}
 		<div id="content-left">
       <h1 style="font-family:'Cutive Mono'">{{page.title}}</h1>
-      <p>rótulo: {{page.category}}</p>
       {% assign content = page.content | strip_newlines %}
       {% if content != ""  %}
         {{content}}
@@ -17,7 +16,7 @@
           <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
             <h3>{{post.title}}</h3>
           </a>
-          <i>criado em {{ post.date | date: "%Y" }}</i>
+          <i>{{ post.date | date: "%d/%m/%Y" }}</i>
           <p>
             {% if post.excerpt %}
               {{ post.excerpt }}
