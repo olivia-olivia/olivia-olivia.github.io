@@ -15,10 +15,12 @@ h1	{
 
 h2	{
 		font-family: 'Cutive Mono', serif;
+		column-span: all;
 }
 
 h3	{
 		font-family: 'Cutive Mono', serif;
+		margin-top: 0;
 }
 
 h4	{
@@ -97,7 +99,15 @@ a:hover	{
 	text-decoration: none;
 }
 
+#index-posts {
+	column-count: 2;
+	column-rule: 1px dashed #000000;
+	vertical-align: text-top;
+	line-height: 100%;
+}
+
 #post-short a:link, #post-short a:visited	{
+	margin-top: 0;
 	text-decoration: none;
 	color:#000
 }
@@ -118,6 +128,28 @@ a:hover	{
 #post i	{
 	font-size:0.9em;
 	color: grey;
+}
+
+#post-social {
+	text-decoration: none;
+	font-size: 0.9em;
+	align: left;
+	margin-top: 1.5em;
+	margin-bottom: 0.5em;
+}
+
+#post-social a:link, #post-social a:visited {
+	text-decoration: none;
+	font-size: 0.9em;
+	margin-top: 1.5em;
+	margin-bottom: 0.5em;
+}
+
+#post-social a:hover {
+	text-decoration: underline;
+	font-size: 0.9em;
+	margin-top: 1.5em;
+	margin-bottom: 0.5em;
 }
 
 #categories a, #categories a:link, #categories a:visited {
@@ -148,16 +180,25 @@ a:hover	{
 	}
 
 	#nav {
-		font-size: 2em;
+		font-size: 1.5em;
 		padding-bottom: 0.5em;
 	}
 
+	#footer {
+		line-height: 150%;
+	}
+
+	#index-posts {
+		column-count: 1;
+	}
+
 	h2 {
-		font-size: 3em;
+		font-size: 2em;
 	}
 
 	h3 {
-		font-size: 2em;
+		font-size: 1.5em;
+		line-height: 100%
 	}
 
 }
@@ -183,12 +224,21 @@ a:hover	{
 		padding-bottom: 0.5em;
 	}
 
+	#footer {
+		line-height: 150%;
+	}
+
+	#index-posts {
+		column-count: 1;
+	}
+
 	h2 {
 		font-size: 2em;
 	}
 
 	h3 {
 		font-size: 1.5em;
+		line-height: 100%
 	}
 
 }
