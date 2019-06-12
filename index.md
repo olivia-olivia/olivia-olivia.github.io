@@ -6,13 +6,13 @@ layout: default
 title: info
 ---
 
-para ler os poemas, navegue nos títulos de coleção acima ou direto no listão
-(nem tão ão) de todos os poemas, [abaixo](#todos-os-poemas).
+para ler os poemas, navegue nos títulos de coleção acima ou direto na lista
+de todos os poemas, [abaixo](#todos-os-poemas).
 
 para enviar uma mensagem ou conversar comigo três jeitos:
-- Issue ou pull request no [GitHub](https://github.com/olivia-olivia/olivia-olivia.github.io)
-- Email pra oliviagj [arroba] prontonmail [ponto] com
-- Um oi lá no [twitter](http://twitter.com/oliviagj/)
+- issue ou pull request no [GitHub](https://github.com/olivia-olivia/olivia-olivia.github.io)
+- email pra oliviagj [arroba] prontonmail [ponto] com
+- um oi lá no [twitter](http://twitter.com/oliviagj/)
 
 
 esse é um projeto de arquivamento, publicação e desenvolvimento de poemas.
@@ -30,10 +30,12 @@ passado. seja bem-vinda.
 olivia
 
 ======
+<div>
+  <h2> todos os poemas </h2>
+</div>
 
-## todos os poemas
-
-{% for post in site.posts %}
+<div id="index-posts">
+  {% for post in site.posts %}
   <div id="post-short">
     <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
       <h3>{{post.title}}</h3>
@@ -46,4 +48,5 @@ olivia
       {% endif %}
     </p>
   </div>
-{% endfor %}
+  {% endfor %}
+</div>
