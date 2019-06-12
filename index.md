@@ -10,9 +10,10 @@ para ler os poemas, navegue nos títulos de coleção acima ou direto na lista
 de todos os poemas, [abaixo](#todos-os-poemas).
 
 para enviar uma mensagem ou conversar comigo três jeitos:
-- issue ou pull request no [GitHub](https://github.com/olivia-olivia/olivia-olivia.github.io)
-- email pra oliviagj [arroba] prontonmail [ponto] com
-- um oi lá no [twitter](http://twitter.com/oliviagj/)
+
+<i class="fab fa-github"></i> issue ou pull request no  [GitHub](https://github.com/olivia-olivia/olivia-olivia.github.io)  
+<i class="fas fa-envelope"></i> email pra oliviagj [arroba] prontonmail [ponto] com  
+<i class="fab fa-twitter"></i> um oi lá no [twitter](http://twitter.com/oliviagj/)  
 
 
 esse é um projeto de arquivamento, publicação e desenvolvimento de poemas.
