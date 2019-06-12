@@ -9,7 +9,10 @@
       <div id="post">
         <h2 style="font-family:'Cutive Mono'"> {{ page.title }}</h2>
         {{ content }}
-        <i>{{ page.date | date: "%d/%m/%Y" }}</i>        
+        <i>{{ page.date | date: "%d/%m/%Y" }}</i>
+          <div id="post-social">
+            <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="&lt;title&gt;" data-via="oliviagj" data-lang="pt" data-show-count="false">põe no twitter</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          </div>
         {% if site.disqus_username and page.comments or site.comments %}
           <div id="disqus_thread"></div><!-- /#disqus_thread -->
           {% include disqus-comments.html %}
