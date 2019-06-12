@@ -6,7 +6,14 @@ layout: default
 title: info
 ---
 
-para ler os poemas, navegue nos títulos de coleção acima ou direto no listão (nem tão ão) de todos os poemas, [abaixo](#todos-os-poemas)
+para ler os poemas, navegue nos títulos de coleção acima ou direto no listão
+(nem tão ão) de todos os poemas, [abaixo](#todos-os-poemas).
+
+para enviar uma mensagem ou conversar comigo três jeitos:
+- Issue ou pull request no [GitHub](https://github.com/olivia-olivia/olivia-olivia.github.io)
+- Email pra oliviagj [arroba] prontonmail [ponto] com
+- Um oi lá no [twitter](http://twitter.com/oliviagj/)
+
 
 esse é um projeto de arquivamento, publicação e desenvolvimento de poemas.
 está tudo muito no começo. não sou programandora, mas tenho alguma familiaridade
