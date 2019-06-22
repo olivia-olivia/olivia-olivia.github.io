@@ -12,7 +12,7 @@ disqus_username:
 markdown: kramdown
 theme: minima
 
-permalink: /:title/
+permalink: /:year-:title/
 
 gems:
   - jekyll-feed
