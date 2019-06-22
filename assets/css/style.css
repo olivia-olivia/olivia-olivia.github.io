@@ -101,7 +101,6 @@ a:hover	{
 
 #index-posts {
 	column-count: 2;
-	column-rule: 1px dashed #000000;
 	vertical-align: text-top;
 	line-height: 100%;
 }
@@ -118,11 +117,19 @@ a:hover	{
 
 #post-short h3, #post h2	{
 	margin-bottom: 0px;
+	margin-top: 0px;
+	padding-top: 1em;
+	padding-bottom: 0px;
+	line-height: 100%;
 }
 
-#post-short i	{
-	font-size:0.8em;
+#post-short p	{
+	font-size:0.7em;
 	color: grey;
+	font-style: italic;
+	margin: 0px 0px 0px 1.25em;
+	line-height: 100%;
+	padding-top: 0px;
 }
 
 #post i	{
