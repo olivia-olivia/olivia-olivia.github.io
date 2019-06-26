@@ -17,7 +17,7 @@ de uma criança, antes
 ante tudo, a palavra  
 
 descida oposta memória errante,  
-desabercebida à emergência  
+desapercebida à emergência  
 como um canto tonto  
 dentro de um buraco surdo  
 "eu quero uma roda d'água

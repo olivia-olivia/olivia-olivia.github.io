@@ -4,7 +4,7 @@ title:  <i>(sem título)</i>
 date:   2014-02-01 -0300
 place:
 categories:
-author-comment: "não sei a data exata, foir perto da minha primeira separação da Ana"
+author-comment: "não sei a data exata, foi perto da minha primeira separação da Ana"
 ---
 
 das coisas prontas
