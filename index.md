@@ -1,38 +1,10 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
-title: info
+title: poemas
 ---
 
-para ler os poemas, navegue nos títulos de coleção acima ou direto na lista
-de todos os poemas, [abaixo](#todos-os-poemas).
-
-para enviar uma mensagem ou conversar comigo três jeitos:
-
-<i class="fab fa-github"></i> issue ou pull request no  [GitHub](https://github.com/olivia-olivia/olivia-olivia.github.io)  
-<i class="fas fa-envelope"></i> email pra oliviagj [arroba] prontonmail [ponto] com  
-<i class="fab fa-twitter"></i> um oi lá no [twitter](http://twitter.com/oliviagj/)  
-
-
-esse é um projeto de arquivamento, publicação e desenvolvimento de poemas.
-está tudo muito no começo. não sou programandora, mas tenho alguma familiaridade
-e facilidade com tecnologia da informação. por enquanto, estou montando este
-site simples usando Jekyll e Github (inclusive Pages). no computador, pra fazer
-tudo funcionar, uso sistema operacional Fedora (versão 30), Firefox para
-navegar, Atom para mexer nos arquivos, Gitkraken para a interface com o GitHub.
-
-aos poucos vou adicionar links para esses recursos e estou disponível pra trocar
-ideias sobre este processo. ganhar autonomia em relação aos meios de difusão
-no processo de tornar públicas coisas que desenvolvo privadamente desde o século
-passado. seja bem-vinda.
-
-olivia
-
-======
 <div>
-  <h2> todos os poemas </h2>
+  <h2> todos, começando pelos mais recentes </h2>
 </div>
 
 <div id="index-posts">
@@ -51,3 +23,35 @@ olivia
   </div>
   {% endfor %}
 </div>
+
+=====
+
+olá,
+
+seja bem-vinda!
+
+esse é um projeto de arquivamento, publicação e desenvolvimento de poemas.
+está tudo muito no começo.
+
+para enviar uma mensagem ou conversar comigo três jeitos:
+
+<i class="fab fa-github"></i> issue ou pull request no  [GitHub](https://github.com/olivia-olivia/olivia-olivia.github.io)  
+<i class="fas fa-envelope"></i> email pra oliviagj [arroba] prontonmail [ponto] com  
+<i class="fab fa-twitter"></i> um oi lá no [twitter](http://twitter.com/oliviagj/)  
+
+olivia
+
+======
+
+sobre publicação, edição, hospedagem da página, etc.
+
+não sou programadora, mas tenho alguma familiaridade e facilidade com
+tecnologia da informação. por enquanto, estou montando este site simples usando
+[Jekyll](https://jekyllrb.com/) e [Github](https://github.com/) (inclusive Pages). no computador, pra fazer tudo funcionar, uso
+sistema operacional [Fedora](https://getfedora.org/), [Firefox](https://firefox.com/) para navegar, [Atom](https://atom.io/) para mexer
+nos arquivos, [Gitkraken](https://www.gitkraken.com/) para a interface com o GitHub.
+
+estou disponível pra trocar
+ideias sobre este processo. ganhar autonomia em relação aos meios de difusão
+no processo de tornar públicas coisas que desenvolvo privadamente desde o século
+passado.
