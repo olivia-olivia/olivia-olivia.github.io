@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  <i>sem título</i>
+title:  "(sem título)"
 date:   2010-01-11 -0300
 categories:
 author-comment:

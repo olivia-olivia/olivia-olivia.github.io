@@ -2,7 +2,7 @@
 layout: post
 title:  "memória da pele"
 date:   2007-08-08 -0300
-categories: outros
+categories: outros preferidas-da-poeta
 author-comment: "iniciado no dia anterior."
 ---
 

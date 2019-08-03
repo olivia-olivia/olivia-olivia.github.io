@@ -2,7 +2,7 @@
 layout: post
 title:  "linguagem"
 date:   2008-07-13 -0300
-categories: outros
+categories: outros preferidas-da-poeta
 author-comment: "iniciado no dia 5"
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "alma intermitente"
 date:   2002-11-02 -0300
-categories: translucido
+categories: translucido preferidas-da-poeta
 author-comment: "o tempo passa e eu gosto mais dele."
 ---
 

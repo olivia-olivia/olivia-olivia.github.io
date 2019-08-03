@@ -3,7 +3,7 @@ layout: post
 title: "patriarcado"
 date: 2019-06-22 -0300
 place: São Paulo
-categories: novos
+categories: novos preferidas-da-poeta
 author-comment:
 ---
 

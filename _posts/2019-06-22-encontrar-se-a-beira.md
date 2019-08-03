@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <i>sem título</i>
+title: sem título
 date: 2019-06-22 -0300
 place: São Paulo
 categories: novos

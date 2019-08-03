@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  <i>(sem título)</i>
+title:  "(sem título)"
 date:   2014-02-01 -0300
 place:
 categories:
