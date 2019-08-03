@@ -3,7 +3,7 @@ owner: Olivia Janequine
 email:
 description: Arquivamento, publicação e desenvolvimento de poemas
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://olivia-olivia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://poeta.olivia.click" # the base hostname & protocol for your site, e.g. http://example.com
 language: pt
 twitter_username: oliviagj
 github_username: olivia-olivia
