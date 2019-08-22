@@ -4,7 +4,7 @@ title: poemas
 ---
 
 <div>
-  <h3> todos, começando pelos mais recentes </h3>
+  <h2> todos, começando pelos mais recentes </h2>
 </div>
 
 <div id="index-posts">
