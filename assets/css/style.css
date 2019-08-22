@@ -116,8 +116,8 @@ a:hover	{
 
 #post-short h4, #post h3	{
 	margin-bottom: 0px;
-	margin-top: 1em;
-	padding-top: 1em;
+	margin-top: 0.5em;
+	padding-top: 0.5em;
 	padding-bottom: 0px;
 	line-height: 100%;
 }
