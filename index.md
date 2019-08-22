@@ -4,14 +4,14 @@ title: poemas
 ---
 
 <div>
-  <h2> todos, começando pelos mais recentes </h2>
+  <h3> todos, começando pelos mais recentes </h3>
 </div>
 
 <div id="index-posts">
   {% for post in site.posts %}
   <div id="post-short">
     <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
-      <h3>{{post.title}}</h3>
+      <h4>{{post.title}}</h4>
     </a>
     <p>
       {% if post.excerpt %}
