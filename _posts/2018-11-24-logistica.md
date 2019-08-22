@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "logística"
+title:  logística
 date:   2018-11-24 -0300
 place: são paulo
 categories: novos preferidas-da-poeta
