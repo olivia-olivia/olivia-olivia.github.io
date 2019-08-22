@@ -23,6 +23,7 @@ h3	{
 h4	{
 		font-family: 'IBM Plex Mono', monospace;
 		margin-top: 0;
+		margin-bottom: 1em;
 }
 
 a:link, a:visited	{
@@ -125,7 +126,7 @@ a:hover	{
 	font-size:0.7em;
 	color: grey;
 	font-style: italic;
-	margin: 0px 0px 0px 0.25em;
+	margin: 0px 0px 0px 0em;
 	line-height: 100%;
 	padding-top: 0px;
 }
