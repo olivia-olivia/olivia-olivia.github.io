@@ -1,30 +1,29 @@
 body	{
 	margin-top: 0px;
 	padding:0;
-	font-family: 'Gentium Book Basic', serif;
+	font-family: 'IBM Plex Serif', serif;
 	font-size:90%;
-	line-height:150%;
-	font-family: 'Cutive', serif;
-	font-size:100%;
 	line-height:150%;
 }
 
 h1	{
-		font-family: 'Cutive Mono', serif;
+		font-family: 'IBM Plex Mono', monospace;
 }
 
 h2	{
-		font-family: 'Cutive Mono', serif;
+		font-family: 'IBM Plex Mono', monospace;
 		column-span: all;
 }
 
 h3	{
-		font-family: 'Cutive Mono', serif;
-		margin-top: 0;
+		font-family: 'IBM Plex Mono', monospace;
+		padding-top: 1em;
 }
 
 h4	{
-		font-family: 'Cutive Mono', serif;
+		font-family: 'IBM Plex Mono', monospace;
+		margin-top: 0;
+		margin-bottom: 0em;
 }
 
 a:link, a:visited	{
@@ -43,7 +42,7 @@ a:hover	{
 }
 
 #nav {
-	font-family: 'Cutive Mono', serif;
+	font-family: 'IBM Plex Mono', monospace;
 	text-align:center;
 	margin:auto;
 	margin-top:0px;
@@ -71,7 +70,7 @@ a:hover	{
 }
 
 #footer {
-	font-family: 'Cutive Mono', serif;
+	font-family: 'IBM Plex Mono', monospace;
 	text-align:center;
 	margin:auto;
 	font-size:0.8em;
@@ -117,7 +116,7 @@ a:hover	{
 
 #post-short h3, #post h2	{
 	margin-bottom: 0px;
-	margin-top: 0px;
+	margin-top: 0em;
 	padding-top: 1em;
 	padding-bottom: 0px;
 	line-height: 100%;
@@ -127,7 +126,7 @@ a:hover	{
 	font-size:0.7em;
 	color: grey;
 	font-style: italic;
-	margin: 0px 0px 0px 1.25em;
+	margin: 0px 0px 0px 0em;
 	line-height: 100%;
 	padding-top: 0px;
 }
