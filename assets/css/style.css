@@ -21,7 +21,7 @@ h3	{
 }
 
 h4	{
-		font-family: 'IBM Plex Mono', monospace;		
+		font-family: 'IBM Plex Mono', monospace;
 }
 
 a:link, a:visited	{
@@ -116,7 +116,7 @@ a:hover	{
 	text-decoration: underline;
 }
 
-#post-short h4, #post h3	{
+#post-short h3, #post h2	{
 	margin-bottom: 0px;
 	margin-top: 0em;
 	padding-top: 1em;
