@@ -11,7 +11,7 @@ title: poemas
   {% for post in site.posts %}
   <div id="post-short">
     <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
-      <h4>{{post.title}}</h4>
+      <h3>{{post.title}}</h3>
     </a>
     <p>
       {% if post.excerpt %}
