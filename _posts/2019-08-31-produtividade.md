@@ -7,6 +7,7 @@ categories: novos logística
 author-comment: "feito a partir do tweet https://twitter.com/godeepORgohome/status/1167871969066307587, do Lorena"
 ---
 
+<!--more-->
 em são paulo  
 meu corpo produz  
 mais ranho que serotonina  
