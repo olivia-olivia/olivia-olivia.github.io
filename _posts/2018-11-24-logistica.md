@@ -3,7 +3,7 @@ layout: post
 title:  logística
 date:   2018-11-24 -0300
 place: são paulo
-categories: preferidas-da-poeta logística
+categories: preferidas-da-poeta logistica
 ---
 
 <!--more-->
