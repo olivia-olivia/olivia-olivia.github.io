@@ -3,7 +3,7 @@ layout: post
 title: "então é assim"
 date: 2019-08-01 -0300
 place: São Paulo
-categories: novos branquitude preferidas-da-poeta
+categories: branquitude preferidas-da-poeta
 author-comment:
 ---
 

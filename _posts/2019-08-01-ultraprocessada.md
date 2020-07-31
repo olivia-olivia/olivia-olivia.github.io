@@ -3,7 +3,7 @@ layout: post
 title: "ultraprocessada"
 date: 2019-08-01 -0300
 place: São Paulo
-categories: novos preferidas-da-poeta branquitude
+categories: preferidas-da-poeta branquitude
 author-comment:
 ---
 

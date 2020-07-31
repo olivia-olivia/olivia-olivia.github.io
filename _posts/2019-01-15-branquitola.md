@@ -3,7 +3,7 @@ layout: post
 title:  branquitola
 date:   2019-01-15
 place:
-categories: novos branquitude
+categories: branquitude
 ---
 
 <!--more-->

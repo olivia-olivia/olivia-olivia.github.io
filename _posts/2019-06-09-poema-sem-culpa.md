@@ -3,7 +3,7 @@ layout: post
 title:  "poema sem culpa"
 date:   2019-06-08 -0500
 place: quito
-categories: novos
+categories: da-boba
 ---
 
 <!--more-->

@@ -3,7 +3,7 @@ layout: post
 title: "impossível"
 date: 2019-07-04 -0300
 place: São Paulo
-categories: novos preferidas-da-poeta da-boba
+categories: preferidas-da-poeta da-boba
 author-comment:
 ---
 

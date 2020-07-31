@@ -3,7 +3,7 @@ layout: post
 title: "produtividade"
 date: 2019-08-31 -0300
 place: São Paulo
-categories: novos logística
+categories: logística
 author-comment: "feito a partir do tweet https://twitter.com/godeepORgohome/status/1167871969066307587, do Lorena"
 ---
 

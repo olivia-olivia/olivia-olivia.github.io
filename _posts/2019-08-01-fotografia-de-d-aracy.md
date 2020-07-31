@@ -3,7 +3,7 @@ layout: post
 title: "fotografia de d. aracy"
 date: 2019-08-01 -0300
 place: São Paulo
-categories: novos branquitude
+categories: branquitude
 author-comment:
 ---
 
