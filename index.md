@@ -1,11 +1,7 @@
 ---
 layout: default
-title: poemas
+title: todos, começando pelos mais recentes
 ---
-
-<div>
-  <h2> todos, começando pelos mais recentes </h2>
-</div>
 
 <div id="index-posts">
   {% for post in site.posts %}
