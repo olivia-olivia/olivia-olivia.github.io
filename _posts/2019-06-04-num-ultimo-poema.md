@@ -7,6 +7,7 @@ categories: logistica
 author-comment: "Escrito a partir da leitura de Ana Martins Marques em pleno vôo. Antes de 2020-08-23, o título era vôo 1. Edições por sugestões de Brunella Martina e Kleyson Barbosa"
 ---
 
+<!--more-->
 se lê  
 "se lê" ou  
 sê, lê ou  
