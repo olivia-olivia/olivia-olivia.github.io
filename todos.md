@@ -5,8 +5,6 @@ category:
 permalink: /categories/todos/
 ---
 
-todos, começando pelos mais recentes.
-
 <div id="index-posts">
   {% for post in site.posts %}
   <div id="post-short">
