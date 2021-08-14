@@ -1,8 +1,8 @@
 ---
-layout: category
+layout: default
 title: todos
 category:
-permalink: /categories/todos/
+permalink: /todos/
 ---
 
 <div id="index-posts">
