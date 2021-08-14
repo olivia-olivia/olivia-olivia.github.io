@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "modelinho"
-date:   1982-06-01 +0300
+date:   1982-06-01 -0300
 place: são paulo
 categories: rascunhos
 ---
