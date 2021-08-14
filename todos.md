@@ -1,9 +1,11 @@
 ---
 layout: default
-title: todos
+title: todos,
 category:
 permalink: /todos/
 ---
+
+começando pelos mais recentes.
 
 <div id="index-posts">
   {% for post in site.posts %}
