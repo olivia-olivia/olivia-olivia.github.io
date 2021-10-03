@@ -11,3 +11,5 @@ vendor/
 images/.comments
 _drafts
 
+
+.obsidian/
