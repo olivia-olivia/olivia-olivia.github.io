@@ -14,7 +14,10 @@ theme: minima
 
 permalink: /:year-:title/
 
-plugins:
+gems:
   - jekyll-feed
-
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle
 excerpt_separator: <!--more-->
