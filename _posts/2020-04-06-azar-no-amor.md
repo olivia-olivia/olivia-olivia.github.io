@@ -7,6 +7,7 @@ categories: novos da-boba corona-o-clock
 author-comment: "o título eu inventei em 2021-10-16"
 ---
 
+<!--more-->
 sortuda sou eu  
 em plena suspensão  
 enquanto tentamos erradicar a nova morte  

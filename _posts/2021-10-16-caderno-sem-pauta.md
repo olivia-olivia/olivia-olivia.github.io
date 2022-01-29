@@ -7,6 +7,7 @@ categories: novos
 author-comment: "escrito em três tempos ao longo de dois anos"
 ---
 
+<!--more-->
 a própria palavra é a linha  
 e o fim da linha  
 escrevo porque é  

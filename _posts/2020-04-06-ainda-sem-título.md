@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "(sem título)"
 date:   2020-03-16 -0300
 place: são paulo
 categories: novos

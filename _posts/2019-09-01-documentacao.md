@@ -3,7 +3,7 @@ layout: post
 title: "documentação"
 date: 2019-09-01 -0300
 place: São Paulo
-categories: logistica novos
+categories: logistica
 author-comment: ""
 ---
 

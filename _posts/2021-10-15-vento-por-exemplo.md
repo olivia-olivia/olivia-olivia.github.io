@@ -7,6 +7,7 @@ categories: novos
 author-comment: ""
 ---
 
+<!--more-->
 a palavra me aproxima de mim  
 a palavra vento, por exemplo  
 venta e o vento toca minha pele  

@@ -3,10 +3,11 @@ layout: post
 title:  "placentacreta"
 date:   2021-10-07 -0300
 place: são paulo
-categories: novos outros
+categories: novos outros preferidas-da-poeta
 author-comment: "Edição dinal foi com ajuda da Stella. Ainda estou com dúvidas se mantenho o útimo verso 'eu me expulso'"
 ---
 
+<!--more-->
 minha mãe morreu  
 depois ressuscitou  
 não era uma ilha  
