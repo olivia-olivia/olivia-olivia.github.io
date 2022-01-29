@@ -3,7 +3,7 @@ layout: post
 title: "exasperada"
 date: 2020-08-19 -0300
 place: São Paulo
-categories: novos translucido
+categories: translucido
 author-comment: "a primeira estrofe é a propósito de um sonho recorrente que eu tive na época dos vinte e poucos anos"
 ---
 

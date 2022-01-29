@@ -3,7 +3,7 @@ layout: post
 title: "meu bairro"
 date: 2020-03-17 -0300
 place: São Paulo
-categories: novos
+categories: 
 author-comment: "a propósito dos trens da Barra Funda. eu nem seu o que acho desse poema"
 ---
 

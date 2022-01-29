@@ -3,7 +3,7 @@ layout: post
 title: "antecipação"
 date: 2020-03-30 -0300
 place: São Paulo
-categories: novos
+categories: 
 author-comment:
 ---
 

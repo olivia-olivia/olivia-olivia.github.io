@@ -3,7 +3,7 @@ layout: post
 title:  "monumento"
 date:   2020-06-11 -0300
 place: São Paulo
-categories: novos da-boba
+categories: da-boba
 author-comment:
 ---
 

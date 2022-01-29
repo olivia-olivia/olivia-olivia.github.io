@@ -3,7 +3,7 @@ layout: post
 title:  "pra sempre"
 date:   2020-05-29 -0300
 place: São Paulo
-categories: novos da-boba
+categories: da-boba
 author-comment:
 ---
 
