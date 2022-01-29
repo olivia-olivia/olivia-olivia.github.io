@@ -11,7 +11,7 @@ author-comment: "o título eu inventei em 2021-10-16"
 sortuda sou eu  
 em plena suspensão  
 enquanto tentamos erradicar a nova morte  
-enquanto ignoramos as mortes impúblicaveis  
+enquanto ignoramos as mortes impublicáveis  
 enquanto celebramos a vida suspensa em fios  
 de fármacos e algoritmos de relacionamento,  
 combinação e *enhancement*  
