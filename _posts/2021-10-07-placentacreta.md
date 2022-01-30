@@ -29,3 +29,9 @@ pra nascer
 pra partir  
 minha mãe ocupava a ilha  
 eu me expulso  
+
+<audio controls>
+  <source src="/audio/placentacreta.ogg" type="audio/ogg">
+Seu navegador não aceita o formato de som.
+Your browser does not support the audio element.
+</audio>
