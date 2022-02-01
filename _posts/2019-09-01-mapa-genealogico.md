@@ -38,7 +38,7 @@ na calçada é a quitanda da D. Laura
 Vovó é D. Aracy, casada com Jorge  
 moraram a vida toda no segundo andar  
 do edifício Aracy, construído no terreno  
-onde era a casa da cidade de sua mãe, Marina  
+onde era a casa da cidade de sua mãe, Antonieta  
 filha do ilustre senador Eloy Chaves  
 no apartamento do térreo, fundos  
 atrás da quitanda, um de seus netos  
